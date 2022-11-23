@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3938228-4c8e-47b5-89ed-3e638dff4e28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/LocatingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class02/WebOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class03/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class03/xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/AdditionalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/RadioButons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/DropDownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/GetAllLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/MultipleSelectDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/checkBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class05/checkBoxDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class06/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class06/farmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07/implicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07/windowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class07/windowHandlingAdvance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class08/WaitDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class08/tableBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class08/waitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/DynamicReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/DynamicTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class09/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class10/calander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class10/calanderPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class11/KeyUsege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class11/actionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class11/actionClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class11/dragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class11/screenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/lanunchingBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/maximizeWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/navigateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass02/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass02/PracticeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass02/RadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass02/dropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass02/ebayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass03/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass03/WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass03/frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass03/implcitwait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewClass04/waitReview.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GJx6RcoPyjZgY6TbYrhXJVVsH4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/roman/Downloads/commons-io-2.6.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.screenShot">
+    <configuration name="KeyUsege" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11.KeyUsege" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11.actionClass" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11.actionClassExample" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11.dragAndDrop" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="screenShot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class11.screenShot" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.screenShot" />
+        <item itemvalue="Application.actionClassExample" />
+        <item itemvalue="Application.KeyUsege" />
+        <item itemvalue="Application.dragAndDrop" />
+        <item itemvalue="Application.actionClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3938228-4c8e-47b5-89ed-3e638dff4e28" name="Changes" comment="" />
+      <created>1666120312225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666120312225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
