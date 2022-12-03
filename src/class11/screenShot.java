@@ -26,7 +26,7 @@ public class screenShot {
 
                 TakesScreenshot ss= (TakesScreenshot) driver;
                 File scourceFile = ss.getScreenshotAs(OutputType.FILE);
-        FileUtils.copyFile(scourceFile,new File("screenshots/SmartBear/adminLogin.png"));
+        FileUtils.copyFile(scourceFile,new File("screenshots/SmartBear/Test.png"));
 
 
 
